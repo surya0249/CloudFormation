@@ -113,6 +113,16 @@
 
 
 
+## Nested Stacks
+### Nested stacks are stacks created as part of other stacks. You create a nested stack within another stack by using the AWS::CloudFormation::Stack resource.
+### Stack A is the root stack for all the other, nested, stacks in the hierarchy.
+
+### For stack B, stack A is both the parent stack, and the root stack.
+
+### For stack D, stack C is the parent stack; while for stack C, stack B is the parent stack.
+
+![image](https://user-images.githubusercontent.com/48580661/120110803-ba4b2080-c18c-11eb-91bf-1358034e88ae.png)
+
 
 
 
