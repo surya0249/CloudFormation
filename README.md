@@ -79,6 +79,24 @@
 
 ![image](https://user-images.githubusercontent.com/48580661/120106304-1bb5c400-c17a-11eb-8e87-8ffc7dfbdb15.png)
 
+### 7.	When the stack has been created successfully you will see the stack status as CREATE_COMPLETE.
+
+![image](https://user-images.githubusercontent.com/48580661/120106374-5586ca80-c17a-11eb-886b-e6dee049015d.png)
+
+### 8.	Delete the rule SSH rule by clicking on "Edit" and then clicking on the cross symbol at the end of the rule.
+
+![image](https://user-images.githubusercontent.com/48580661/120106427-7f3ff180-c17a-11eb-9d22-6edadfb99de1.png)
+![image](https://user-images.githubusercontent.com/48580661/120106430-86ff9600-c17a-11eb-9729-832f3f7e2663.png)
+
+### 9.	Now we will head back to the CloudFormation console, select our stack and click on "Detect Drift."
+![image](https://user-images.githubusercontent.com/48580661/120106494-badabb80-c17a-11eb-8c7e-1815b170c58f.png)
+
+### 10.	Click on "Yes, Detect" on the screen.
+![image](https://user-images.githubusercontent.com/48580661/120106524-e2318880-c17a-11eb-91b1-cc48d65bd33c.png)
+![image](https://user-images.githubusercontent.com/48580661/120106531-ee1d4a80-c17a-11eb-91ff-8efe0ef2eb61.png)
+
+
+
 
 
 
