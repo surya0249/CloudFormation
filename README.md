@@ -56,6 +56,10 @@
 
 
 
+## Drift:
+### Drift is the difference between the expected configuration values of stack resources defined in CloudFormation templates and the actual configuration values of these resources in the corresponding CloudFormation stacks.
+
+
 
 ### 1.	Login to your AWS account and head over to the AWS CloudFormation console.
 ### 2.	we will launch a new stack which will launch Security group. Click on the "Create Stack" button.
