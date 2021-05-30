@@ -30,7 +30,7 @@
 ### •	Mappings are great when you know in advance all the values that can be taken and that they are deduced from variables such as
 ###   Region
 ###   Availability Zone
-##    Aws account
+###    Aws account
 ###   Environment[dev,prod]
 ###   !Findmap [ mapname, toplevel key, second level key]
 
