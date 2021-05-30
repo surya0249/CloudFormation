@@ -5,7 +5,7 @@
 ### Updating Infrastructure is easy with CloudFormation.
 
 
-# Parameters:
+## Parameters:
 ### • The dynamic input for your template.
 ### • Some inputs can’t be determined ahead of time.
 ### • If you want to reuse your templates.
