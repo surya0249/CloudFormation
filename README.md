@@ -69,6 +69,11 @@
 ![image](https://user-images.githubusercontent.com/48580661/120105930-8f56d180-c178-11eb-8530-71c806bdb89f.png)
 
 
+### 4. Click "Next" and enter the stack name and specify parameter values.
+
+![image](https://user-images.githubusercontent.com/48580661/120106086-494e3d80-c179-11eb-87da-fdc3de9861ef.png)
+
+
 
 
 
