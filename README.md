@@ -75,6 +75,10 @@
 ### 5.	Click "Next" and configure tags.
 ![image](https://user-images.githubusercontent.com/48580661/120106196-cc6f9380-c179-11eb-9114-82bebb2a809b.png)
 
+### 6.	Click "Next" and review the stack.
+
+![image](https://user-images.githubusercontent.com/48580661/120106304-1bb5c400-c17a-11eb-8e87-8ffc7dfbdb15.png)
+
 
 
 
