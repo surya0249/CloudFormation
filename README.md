@@ -39,4 +39,12 @@
 
 
 
+## Outputs:
+### •	The output section declares optional output values that we can import into other stacks.
+### •	You can also view output in AWS console or AWS cli.
+### •	You need to export the output value before being able to use it in another stack.
+
+
+
+
 
