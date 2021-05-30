@@ -72,6 +72,8 @@
 ### 4. Click "Next" and enter the stack name and specify parameter values.
 ![image](https://user-images.githubusercontent.com/48580661/120106136-861a3480-c179-11eb-8869-2d00049ccb85.png)
 
+### 5.	Click "Next" and configure tags.
+![image](https://user-images.githubusercontent.com/48580661/120106196-cc6f9380-c179-11eb-9114-82bebb2a809b.png)
 
 
 
