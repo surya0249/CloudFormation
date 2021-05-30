@@ -70,8 +70,8 @@
 
 
 ### 4. Click "Next" and enter the stack name and specify parameter values.
+![image](https://user-images.githubusercontent.com/48580661/120106136-861a3480-c179-11eb-8869-2d00049ccb85.png)
 
-![image](https://user-images.githubusercontent.com/48580661/120106086-494e3d80-c179-11eb-87da-fdc3de9861ef.png)
 
 
 
