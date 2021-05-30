@@ -33,7 +33,7 @@
 ### •	Mappings are great when you know in advance all the values that can be taken and that they are deduced from variables such as
 ###   Region
 ###   Availability Zone
-###    Aws account
+###   Aws account
 ###   Environment[dev,prod]
 ###   !Findmap [ mapname, toplevel key, second level key]
 
@@ -55,6 +55,11 @@
 ### •	Each condition can reference another condition parameter value or mapping.
 
 
+
+
+### 1.	Login to your AWS account and head over to the AWS CloudFormation console.
+### 2.	we will launch a new stack which will launch Security group. Click on the "Create Stack" button.
+### 3.	Upload template file.
 
 
 ![image](https://user-images.githubusercontent.com/48580661/120105930-8f56d180-c178-11eb-8530-71c806bdb89f.png)
