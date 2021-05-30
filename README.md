@@ -95,6 +95,21 @@
 ![image](https://user-images.githubusercontent.com/48580661/120106524-e2318880-c17a-11eb-91b1-cc48d65bd33c.png)
 ![image](https://user-images.githubusercontent.com/48580661/120106531-ee1d4a80-c17a-11eb-91ff-8efe0ef2eb61.png)
 
+## Metadata
+### you can include template implementation details about specific resources
+#### Metadata:
+  #### Instances:
+   ####  Description: "Information about the instances"
+  #### Databases: 
+   ####  Description: "Information about the databases"
+   
+   
+## CFN INIT
+
+### - User-data is an imperative way to provision/bootstrap the EC2 instance using SHELL syntax .
+### - AWS::CloudFormation::Init is a declarative way to provision/bootstrap the EC2 instance using YAML or JSON syntax.
+### - AWS::CloudFormation::Init is useless if it is NOT triggered by UserData.
+### => Triggering AWS::CloudFormation::Init inside UserData is done by one of helper scripts (cfn-init).
 
 
 
