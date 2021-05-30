@@ -22,4 +22,18 @@
 ### •	Resource properties are additional options that you can specify for a resource.
 
 
+## Mappings: 
+### •	Mappings are fixed variables with your cloudformation template.
+### •	They are very handy to differentiate between different Env, regions,
+###   AMI types.
+### •	All these are hardcoded in the template.
+### •	Mappings are great when you know in advance all the values that can be taken and that they are deduced from variables such as
+###   Region
+###   Availability Zone
+##    Aws account
+###   Environment[dev,prod]
+###   !Findmap [ mapname, toplevel key, second level key]
+
+
+
 
